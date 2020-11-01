@@ -5,10 +5,11 @@ Username: mahlatse@gmail.com
 
 Password: mahlatse@gmail.com
 
-Create a database named "project" and import the sql file and run.
-WITHOUT THE DATABASE THE PROJECT WON'T RUN.
 
->>DATABASE file is inside the "databasefile" folder
+Create a database named "project" and import the sql file and run.
+without the database the project wont run
+
+>>DATABASE file is inside the "database" folder
 
 ***** LEAVE A COMMENT IF YOU LOVED MY WORK *****
 
